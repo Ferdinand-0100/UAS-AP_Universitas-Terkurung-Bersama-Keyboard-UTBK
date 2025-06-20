@@ -61,7 +61,7 @@ class lotreGosok {
                     board[row][col] = '0';
                     step++;
                 }
-                cout << "Kotak Aman" << endl;
+                if (step != 18) cout << "Kotak Aman" << endl;
                 return 0;
             }
         }
