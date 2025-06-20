@@ -3,14 +3,11 @@
 Kelompok: Universitas Terkurung Bersama Keyboard (UTBK)
 
 Anggota:
--------------------------+-------------
-      Nama               |     NIM
--------------------------+-------------
 Ferdinand        	       |   241401080
 Muhammad Aryadefa	       |   241401050
 Ahmad Caesar Ramadhan 	 |   241401011
-Nabila Syahri	           |   241401056
-Badzlina Atika Salsabila | 	 241401113
+Nabila Syahri	       |   241401056
+Badzlina Atika Salsabila |   241401113
 
 Deskripsi:
 Program simulasi lotre gosok, dimana user dapat "menggosok" sebuah cell dari lotre virtual berukuran 4*5, dan jika 
